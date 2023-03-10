@@ -5,6 +5,9 @@ import environVariables from "./Config/environmentalVariable";
 
 const app = express();
 
+console.log("This is Valerian Code");
+
+
 //Initializing
 appConfigurate(app);
 Dbconfiging();
