@@ -15,3 +15,5 @@ const Dbconfiging = async () => {
 };
 
 export default Dbconfiging;
+
+//this is a comment of an ish i added  but it os not an error
